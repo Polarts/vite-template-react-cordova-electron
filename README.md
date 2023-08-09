@@ -3,7 +3,7 @@
 Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
 
 ```sh
-npx degit https://github.com/repoetc... my-app
+npx degit https://github.com/Polarts/vite-template-react-cordova-electron.git. my-app
 ```
 
 ## Goals
